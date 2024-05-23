@@ -1,0 +1,22 @@
+body
+{
+    background-color: aliceblue;
+}
+#elso
+{
+position: absolute;
+top: 30px;
+left: 40px;
+}
+#masodik
+{
+position: absolute;
+top: 30px;
+left: 60px;
+}
+#harmadik
+{
+position: absolute;    
+top: 30px;
+left: 80px;
+}

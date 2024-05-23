@@ -1,0 +1,142 @@
+body
+{
+    background-color:#A4AA88 !important;
+}
+#elso
+{
+position: absolute;
+top: 15px;
+left: 50px;
+width: 20px !important;
+background-color: aliceblue;
+}
+
+
+#elsoo
+{
+position: absolute;
+width: 120px !important;
+height: 40px !important;
+background-color: #2B411C;
+}
+
+h1
+{
+
+    text-align: center !important;
+}
+#hatter
+{
+    top: 0;
+    background-color: #454B1B;
+    width: 1920px;
+    height: 75px;
+}
+h5
+{
+    max-width: 2000px;
+
+    text-align: center !important;
+}
+h4
+{
+
+    text-align: center !important;
+}
+#rendeltetes
+{
+    background-color:#A4AA95 !important;
+    right: 20px !important;
+}
+#FELADATOK
+{
+    background-color:#A4AA90 !important;
+    right: 20px !important;
+}
+#logo
+{
+    position: absolute;
+    top: 10px;
+    height:60px;
+    width:60px ;
+    right: 40px;
+}
+#kep1
+{
+position: relative;
+    left: 30px;
+    height:300px;
+    width:450px ;
+    border-style: solid;
+    border-color: #2B411C;
+}
+#kep2
+{
+position: relative;
+    left: 40px;
+    height:300px;
+    width:450px ;
+    border-style: solid;
+    border-color: #2B411C;
+}
+#kep3
+{
+position: relative;
+    left: 50px;
+    height:300px;
+    width:450px ;
+    border-style: solid;
+    border-color: #2B411C;
+}
+#kep4
+{
+position: relative;
+    left: 60px;
+    height:300px;
+    width:450px ;
+    border-style: solid;
+    border-color: #2B411C;
+}
+#jelent
+{
+    position: relative;
+    border-color: #2B411C;
+    border-style: solid !important;
+    width: 200px;
+    height: 40px;
+    background-color: #A4AA88;
+    border-radius: 20px;
+    text-align: center !important;  
+    left: 70px !important;  
+    padding: 0px;
+    margin: 3px;
+    top: 15px;
+}
+form
+{
+    position: absolute;
+    background-color:#aaaf95 !important;
+    max-width: 800px !important;
+    text-align: center;
+    left: 700px !important;
+    border-color: #555841 ;
+    border-style: solid;
+} 
+#egy
+{
+width: 500px;
+}
+button
+{
+ background-color: #555841;
+}
+#zaza
+{
+    position: absolute;
+    left: 10px;
+    max-width: 700px !important;
+}
+#za
+{
+    max-width: 400px !important;
+}
